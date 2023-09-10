@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 6,
+      "checked": false,
+      "item": "cookie"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "tomato"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "apple"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "og"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "hi"
+    }
+  ]
+}
